@@ -1,4 +1,0 @@
-See file:///Users/kostiantyn.zghirovskyi/Projects/snapchat/NdkTest/ndk-module/build/tmp/compileLookseryArmeabi-v7aDebugSharedLibraryLookseryMainCpp/output.txt for all output for compileLookseryArmeabi-v7aDebugSharedLibraryLookseryMainCpp.
-compiling test0.cpp successful.
-
-Finished compileLookseryArmeabi-v7aDebugSharedLibraryLookseryMainCpp, see full log file:///Users/kostiantyn.zghirovskyi/Projects/snapchat/NdkTest/ndk-module/build/tmp/compileLookseryArmeabi-v7aDebugSharedLibraryLookseryMainCpp/output.txt.
