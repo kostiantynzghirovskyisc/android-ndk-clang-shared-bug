@@ -1,0 +1,4 @@
+See file:///Users/kostiantyn.zghirovskyi/Projects/snapchat/NdkTest/ndk-module-static/build/tmp/compileTrackingArmeabi-v7aDebugStaticLibraryTrackingMainCpp/output.txt for all output for compileTrackingArmeabi-v7aDebugStaticLibraryTrackingMainCpp.
+compiling test.cpp successful.
+
+Finished compileTrackingArmeabi-v7aDebugStaticLibraryTrackingMainCpp, see full log file:///Users/kostiantyn.zghirovskyi/Projects/snapchat/NdkTest/ndk-module-static/build/tmp/compileTrackingArmeabi-v7aDebugStaticLibraryTrackingMainCpp/output.txt.

@@ -1,0 +1,4 @@
+See file:///Users/kostiantyn.zghirovskyi/Projects/snapchat/NdkTest/ndk-module-static/build/tmp/createTrackingArmeabi-v7aDebugStaticLibrary/output.txt for all output for createTrackingArmeabi-v7aDebugStaticLibrary.
+archiving libtracking.a successful.
+
+Finished createTrackingArmeabi-v7aDebugStaticLibrary, see full log file:///Users/kostiantyn.zghirovskyi/Projects/snapchat/NdkTest/ndk-module-static/build/tmp/createTrackingArmeabi-v7aDebugStaticLibrary/output.txt.

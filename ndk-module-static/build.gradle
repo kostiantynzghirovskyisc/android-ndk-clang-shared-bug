@@ -1,0 +1,16 @@
+apply plugin: "com.android.model.native"
+
+model {
+    android {
+        compileSdkVersion 23
+
+        ndk {
+            moduleName 'tracking'
+            toolchain 'clang'
+            toolchainVersion '3.6'
+
+            stl 'c++_shared'
+            abiFilters.addAll(["armeabi-v7a"])
+        }
+    }
+}

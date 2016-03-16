@@ -1,0 +1,4 @@
+See file:///Users/kostiantyn.zghirovskyi/Projects/snapchat/NdkTest/ndk-module/build/tmp/linkLookseryArmeabi-v7aDebugSharedLibrary/output.txt for all output for linkLookseryArmeabi-v7aDebugSharedLibrary.
+linking liblooksery.so successful.
+
+Finished linkLookseryArmeabi-v7aDebugSharedLibrary, see full log file:///Users/kostiantyn.zghirovskyi/Projects/snapchat/NdkTest/ndk-module/build/tmp/linkLookseryArmeabi-v7aDebugSharedLibrary/output.txt.

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/kostiantyn.zghirovskyi/Projects/snapchat/NdkTest/ndk-module/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/kostiantyn.zghirovskyi/Projects/snapchat/NdkTest/ndk-module/src/debug/assets"/></dataSet></merger>
