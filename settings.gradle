@@ -1,1 +1,1 @@
-include ':app', ':ndk-module', ':ndk-module-static'
+include ':ndk-module', ':ndk-module-static'

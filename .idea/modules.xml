@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NdkTest.iml" filepath="$PROJECT_DIR$/NdkTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/ndk-module/ndk-module.iml" filepath="$PROJECT_DIR$/ndk-module/ndk-module.iml" />
       <module fileurl="file://$PROJECT_DIR$/ndk-module-static/ndk-module-static.iml" filepath="$PROJECT_DIR$/ndk-module-static/ndk-module-static.iml" />
     </modules>
